@@ -117,10 +117,10 @@ copy_kde_configs() {
         "plasma-org.kde.plasma.desktop-appletsrc"
         "plasmarc"
         "plasmashellrc"
-        "plasma-workspace"
         "systemsettingsrc"
     )
     
+    # Config dosyalarını kopyala
     for config_file in "${config_files[@]}"; do
         if [ -f "$script_dir/configs/$config_file" ]; then
             cp "$script_dir/configs/$config_file" "$config_dir/"
