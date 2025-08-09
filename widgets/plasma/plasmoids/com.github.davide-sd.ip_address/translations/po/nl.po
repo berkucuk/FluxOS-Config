@@ -1,0 +1,164 @@
+# Translation of ip_address in nl
+# Copyright (C) 2024
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ip_address\n"
+"Report-Msgid-Bugs-To: https://github.com/Davide-sd/ip_address\n"
+"POT-Creation-Date: 2024-03-22 19:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch <vistausss@outlook.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "Algemeen"
+
+#: ../contents/config/config.qml
+msgid "Appearance"
+msgstr "Vormgeving"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Map Size:"
+msgstr "Kaartgrootte:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Map default zoom level:"
+msgstr "Standaard zoomniveau:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Layout:"
+msgstr "Layout:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "horizontal layout"
+msgstr "Horizontale indeling"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "vertical layout"
+msgstr "Verticale indeling"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Label Color:"
+msgstr "Labelkleur"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Use Theme"
+msgstr "Thema gebruiken"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Link Color:"
+msgstr "Linkkleur"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Others:"
+msgstr "Overig"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show host name"
+msgstr "Hostnaam tonen"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Update Interval:"
+msgstr "Bijwerktussenpoos:"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Icon size:"
+msgstr "Pictogramgrootte"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Font size:"
+msgstr "Lettertypegrootte"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show on widget:"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Country flag"
+msgstr "Landsvlag"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Country label"
+msgstr "Label"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "IP address"
+msgstr "IP-adres"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "VPN status icon"
+msgstr "VPN Status pictogram"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid ""
+"VPN keywords for nmcli (use\n"
+"pipe character as separator):"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Explanation for VPN icon:"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Red shield: VPN is not active;"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Green shield: VPN is active;"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Orange disk: some error happened."
+msgstr ""
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "IP address:"
+msgstr "IP-adres"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Country:"
+msgstr "Land:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Region:"
+msgstr "Regio:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Postal Code:"
+msgstr "Postcode:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "City:"
+msgstr "Plaats:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Coordinates:"
+msgstr "Coördinaten:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Hostname:"
+msgstr "Hostnaam:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Open map in the browser"
+msgstr "Kaart openen in webbrowser"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Update"
+msgstr "Bijwerken"
+
+#: ../contents/ui/main.qml
+msgid "Public IP Address: "
+msgstr "Openbaar ip-adres:"
+
+#: ../contents/ui/main.qml
+msgid "Connected to: "
+msgstr "Verbonden met:"

@@ -1,0 +1,164 @@
+# Translation of ip_address in es
+# Copyright (C) 2024
+# This file is distributed under the same license as the  package.
+# victorhck <victorhck@mailbox.org>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ip_address\n"
+"Report-Msgid-Bugs-To: https://github.com/Davide-sd/ip_address\n"
+"POT-Creation-Date: 2024-03-22 19:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "General"
+
+#: ../contents/config/config.qml
+msgid "Appearance"
+msgstr "Aspecto"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Map Size:"
+msgstr "Tamaño del mapa:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Map default zoom level:"
+msgstr "Nivel predeterminado de zoom:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Layout:"
+msgstr "Layout:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "horizontal layout"
+msgstr "diseño horizontal"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "vertical layout"
+msgstr "diseño vertical"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Label Color:"
+msgstr "Color de la etiqueta"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Use Theme"
+msgstr "Usar tema"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Link Color:"
+msgstr "Color de link"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Others:"
+msgstr "Otros"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show host name"
+msgstr "Mostrar nombre del host"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Update Interval:"
+msgstr "Intervalo de actualización:"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Icon size:"
+msgstr "Tamaño del icono:"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Font size:"
+msgstr "Tamaño de la fuente:"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show on widget:"
+msgstr "Mostrar en el widget"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Country flag"
+msgstr "La bandera del país"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Country label"
+msgstr "Mostrar la etiqueta del país"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "IP address"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "VPN status icon"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid ""
+"VPN keywords for nmcli (use\n"
+"pipe character as separator):"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Explanation for VPN icon:"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Red shield: VPN is not active;"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Green shield: VPN is active;"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Orange disk: some error happened."
+msgstr ""
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "IP address:"
+msgstr ""
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Country:"
+msgstr "País:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Region:"
+msgstr "Region:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Postal Code:"
+msgstr "Código postal:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "City:"
+msgstr "Ciudad:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Coordinates:"
+msgstr "Coordenadas:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Hostname:"
+msgstr "Nombre del host:"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Open map in the browser"
+msgstr "Abrir el mapa en el navegador"
+
+#: ../contents/ui/FullRepresentation.qml
+msgid "Update"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Public IP Address: "
+msgstr "Dirección IP pública:"
+
+#: ../contents/ui/main.qml
+msgid "Connected to: "
+msgstr "Conectado a:"
